@@ -2,66 +2,103 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>RESUME</title>
+    <title>Document</title>
 </head>
-<body style="background-color: rgb(132, 171, 167);">
+<body style="background-image: url(https://png.pngtree.com/background/20220714/original/pngtree-simple-and-fresh-series-light-blue-resume-background-blue-picture-image_1610943.jpg)">
+    <hr style="color: black;">
+    <hr style="color: black;">
+    <hr style="color: black;">
+    <!--intro of this resume-->
+<section style="color: rgb(59, 40, 14);font-size: xx-large;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
     <details>
-        <summary>TO KNOW THE "RESUME"</summary>
-        <!--Biography of the user-->
-        <!--using semantic tags section, figure-->
-    <figure>
-        <img src="https://static.vecteezy.com/system/resources/previews/022/076/937/non_2x/resume-girl-applying-for-vacancy-in-company-in-recruiters-hand-woman-with-resume-is-interviewing-wanting-to-get-new-job-and-get-good-high-paying-position-vector.jpg" alt="incorrect image link" width="200px" height="200px" />
-    </figure>
-    <section>
-        <header>BIOGRAPHY---</header>
-        <p style="font-size: larger;">
-            Name:Alice Rebekah C<br>
-            Born:12.07.2006<br>
-            Age:18<br>
-            Address:Coimbatore 641022,Thudiyalur.
-        </p>
-    </section>
-    <!--Qualification of the user-->
-    <section>
-        <header>QUALIFICATION---</header>
-        <P style="font-size: larger;">
-            <img src="https://th.bing.com/th?q=Certificate+Logo+Black+Colour&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247" alt="incorrect image link" width="50px" height="50px"><br>
-            SSLC in <u>"Bishop Francis Matriculaton School"</u><br>
-            Higher studies in <u>"Sri Ramakrishana Matriculaton Higher Sec School"</u><br>
-            UG in <u>"KG college of Arts and Science"</u>(Compuetr technology)
-        </P>    
-    </section> 
-    <!--Skills  of the user-->
-    <section>
-        <header>SKILLS---</header>
-        <p>
-        <ul types="square" style="font-size: larger;">
-        <li>Pyhton</li> 
-        <li>Java</li> 
-        <li>Css</li> 
-        <li>Rubi</li> 
-        </ul>
-        </p>
-    </section>
-    <!--Small description  of the user-->
-    <section>
-        <dl style="font-size: larger;">Small captions:-</dl>
-        <dt style="font-size: larger;">Hello,this is Alice Rebekah from kg college of arts and science<br>
-             I'm here to present my resume in front you.<br>
-             So,yes please yo can question in the basis of the resume</dt><br>
-    </section>
-    <!--to contact the user--> 
-    <footer>
-        <header>CONTACT---</header>
-        <p style="font-size: larger;">Phone:1234567890<br>
-            Mail:abcd@gmail.com<br>
-            To get know more:<a href="https://www.instagram.com/" target="_blank">
-                <button"><b>https://www.instagram.com</b></button>
-                </a><br>
-                <img src="https://th.bing.com/th/id/OIP.Q5ApSiDFmhrzEWDP5t9rfAAAAA?w=180&h=148&rs=1&pid=ImgDetMain" alt="incorrect image link" width="300px" height="200px">
-        </p>
-    </footer>
-</details> 
+        <summary>&#128269;Splits in this page</summary>
+       <li>About</li>
+       <li>Languages</li> 
+       <li>Education</li> 
+       <li>Skills</li>  
+       <li>Address</li>  
+             
+     </details>
+</section>
+<section>
+    <center style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: brown; font-size: xx-large;">
+        <u>R E S U M E</u>
+    </center>
+</section>
+<!--About using figure,section emijisand image tag-->
+<figure style="color: black;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: xx-large;">
+    ALICE REBEKAH C 
+  <img src="c:\general folder\resume pic.jpg" alt="incorrect image" width="200px" height="200px">
+</figure>
+<section style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: x-large;">
+    I'm C Alice Rebekah need to show my resume and about me in this Resume.
+    so please the digtetiries viewing my resume, view in a calm manner!!<br><br>
+    &#128232;--alicerebekah@gmail.com <br>  
+    &#128379;--91+7418589270<br>                        
+    &#127991;--Coimbatore<br>
+    <hr>
+</section>
+<!--lanuages using lost and details tag-->
+<section style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: x-large;">
+ <u>LANGUAGES---</u><br>
+ <ol>
+    <li>English</li><br>
+    <li>Hindi</li><br>
+    <li>Tamil</li><br> 
+ </ol> 
+ <!--Education using details and link tag-->
+  <u>Education </u><br>
+SSLC in 
+  <details>
+    <summary>Bishop Francis Matriculation School </summary> 
+    location_N.G.G.O colony,coimbatore-641022<br>
+<a href="file:///G:/My%20Drive/Alice/Alice%20Rebekah_10MS.pdf" target="_blank"> Marksheet</a>
+  </details>   
+HIGHER SECONDARY in
+  <details>
+    <summary>Sri Ramakrishana Matriculation Higher sec School </summary> 
+    location_vattamalaiyapalayam,coimbatore-641022<br>
+    <a href="file:///G:/My%20Drive/Alice/Alice%20Rebekah_12MS.pdf" target="_blank"> Marksheet</a>
+  </details>  
+UG in 
+  <details>
+    <summary>KG College of Arts and Science </summary>
+    1<sup>st</sup> year BSC Computer Technology
+  </details>
+</section><br><br>
+<!--Skills using unordered listand link tag-->
+<section  style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: x-large;">
+  <u>SKILLS</u><br>
+  <ul>
+    <li>python</li>
+    <li>Java</li>
+    <li>Html</li>
+    <li>C<sup>++</sup></li>
+  </ul>
+  And I have completed some valid corurses in coursera<br>
+  1.Digitak Transformation With Google Cloud<br>
+  <a href="file:///G:/My%20Drive/Coursera/Coursera_8.pdf" target="_blank">certificate</a><br>
+  2.Deep Learning with PyTorch : Image Segmentation<br>
+  <a href="file:///G:/My%20Drive/Coursera/coursera_9.pdf" target="_blank">certificate</a><br>
+  3. Data Analysis Using Pyspark<br>
+  <a href="file:///G:/My%20Drive/Coursera/coursera_11.pdf" target="_blank">certificate</a><br><br>
+</section>
+<hr>
+<hr>
+<hr>
+<!--address using emojis and link tag-->
+<section style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: x-large;">
+<u>ADDRESS--</u><br>
+    &#127969;1<sub>/432</sub> Rangasamy Street,N.G.G.O colony,<br>
+    Thudiyalur,coimbatore-641022.<br>
+    Mobile:91+7418589270<br>
+    &#128280;To contact on other<a href="https://web.whatsapp.com/">  whatsapp   </a><br>
+    &#128280;To contact on other<a href="https://www.instagram.com/accounts/login/?hl=en">   instagram  </a>
+</section>
+<!--footer using image tag-->
+<footer>
+    <img src="C:\general folder\thankyou msg.png" alt="incorrect image link" width="100px" height="100px">
+</footer>
 </body>
 </html>
-        
+     
