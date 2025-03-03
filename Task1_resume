@@ -27,8 +27,10 @@
 </section>
 <!--About using figure,section emijisand image tag-->
 <figure style="color: black;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: xx-large;">
-    ALICE REBEKAH C 
-  <img src="c:\general folder\resume pic.jpg" alt="incorrect image" width="200px" height="200px">
+    <q>ALICE REBEKAH C</q> 
+<center>  
+  <img src="https://www.mockofun.com/wp-content/uploads/2019/12/circle-profile-pic.jpg" alt="incorrect image" width="200px" height="200px">
+</center>  
 </figure>
 <section style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: x-large;">
     I'm C Alice Rebekah need to show my resume and about me in this Resume.
@@ -52,7 +54,7 @@ SSLC in
   <details>
     <summary>Bishop Francis Matriculation School </summary> 
     location_N.G.G.O colony,coimbatore-641022<br>
-<a href="file:///G:/My%20Drive/Alice/Alice%20Rebekah_10MS.pdf" target="_blank"> Marksheet</a>
+<a href="g:\My Drive\Alice\Alice Rebekah_10MS.pdf" target="_blank"> Marksheet</a>
   </details>   
 HIGHER SECONDARY in
   <details>
@@ -63,7 +65,8 @@ HIGHER SECONDARY in
 UG in 
   <details>
     <summary>KG College of Arts and Science </summary>
-    1<sup>st</sup> year BSC Computer Technology
+    1<sup>st</sup> year BSC Computer Technology<br>
+    location_Saravanampatti,Coimbatore-641022
   </details>
 </section><br><br>
 <!--Skills using unordered listand link tag-->
@@ -76,12 +79,12 @@ UG in
     <li>C<sup>++</sup></li>
   </ul>
   And I have completed some valid corurses in coursera<br>
-  1.Digitak Transformation With Google Cloud<br>
-  <a href="file:///G:/My%20Drive/Coursera/Coursera_8.pdf" target="_blank">certificate</a><br>
+  1.Digital Transformation With Google Cloud<br>
+  <a href="https://coursera.org/share/25fbaad5bfeb779514694960154358ab" target="_blank">certificate</a><br>
   2.Deep Learning with PyTorch : Image Segmentation<br>
-  <a href="file:///G:/My%20Drive/Coursera/coursera_9.pdf" target="_blank">certificate</a><br>
+  <a href="https://coursera.org/share/8702244fe8fb00dff88daadcbfee6fa9" target="_blank">certificate</a><br>
   3. Data Analysis Using Pyspark<br>
-  <a href="file:///G:/My%20Drive/Coursera/coursera_11.pdf" target="_blank">certificate</a><br><br>
+  <a href="https://coursera.org/share/f99b7b1c61c1741d635e99e54a9d087f" target="_blank">certificate</a><br><br>
 </section>
 <hr>
 <hr>
@@ -97,8 +100,12 @@ UG in
 </section>
 <!--footer using image tag-->
 <footer>
-    <img src="C:\general folder\thankyou msg.png" alt="incorrect image link" width="100px" height="100px">
+<center>
+    <img src="https://media.istockphoto.com/id/1397892955/photo/thank-you-message-for-card-presentation-business-expressing-gratitude-acknowledgment-and.jpg?s=612x612&w=0&k=20&c=7Lyf2sRAJnX_uiDy3ZEytmirul8pyJWm4l2fxiUtdvk=" alt="incorrect image link" width="500px" height="300px">
+  </center>   
+<hr>
+<hr>
+<hr>     
 </footer>
 </body>
 </html>
-     
