@@ -1,1 +1,92 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>task_2</title>
+</head>
+<body style="background-image: url(../bc.jpg);"> 
+<center>
+    <section>
+        <img src="https://www.kgcas.com/wp-content/uploads/2024/05/College-Logo-1.jpg?x28159" alt="incorrect image link" height="200px" width="1210px">
+    <table border="23px" style="border-spacing:9px;padding:20px; font-size: xx-large;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+            <caption style="font-size: xx-large;">T I M E____T A B L E</caption>
+    </section>
+    <section>
+            <thead>
+        <td colspan="5" style="height:20px; width: 100PX ;text-align: center;color: brown;" >KG COLLEGE OF ARTS AND SCIENCE<br>TIME__TABLE</td>
+                <tr style="color: rgb(205, 203, 205);">
+                    <td>Hour/<br>Day-Order</td>
+                    <td>8:50 to<br> 9:55</td>
+                    <td>9:55 to<br> 10:50</td>
+                    <td>B R E A K<br>10:50 to 11:10</td>
+                    <td>11:10 to<br> 12:05</td>
+                    <td>12:05 to<br> 1:00</td>
+                    <td>L U N C H<br> 1:00 to 1:50</td>
+                    <td>1:50 to<br> 2:40</td>
+                    <td>2:40 to<br> 3:30</td>
+                </tr>
+            </thead>
+    </section> 
+    <section>       
+        <body>
+                 <tr style="color: rgb(205, 203, 205);">
+                    <td>1<sup>st</sup><br>day order</td>
+                    <td style="background-color: blue;">OS</td>
+                    <td style="background-color: rgb(240, 9, 140);">JAVA</td>
+                    <td style="background-color: rgb(48, 4, 23);"> B R E A K</td>
+                    <td style="background-color: rgb(15, 165, 97);">ENGLISH</td>
+                    <td style="background-color: rgb(1, 15, 15);">TAMIL</td>
+                    <td style="background-color: rgb(48, 4, 23);">L U N C H</td>
+                    <td style="background-color: aqua;">JAVA</td>
+                    <td style="background-color: rgb(174, 68, 10);">HR</td>
+                </tr>
+                <tr style="color: rgb(205, 203, 205);">
+                    <td>2<sup>nd</sup><br>day order</td>
+                    <td style="background-color: rgb(234, 7, 7);">JAVA<BR>LAB</td>
+                    <td style="background-color: rgb(223, 14, 14);">JAVA<br>LAB</td>
+                    <td style="background-color: rgb(48, 4, 23);"> B R E A K</td>
+                    <td style="background-color: blue;">OS</td>
+                    <td style="background-color: rgb(243, 14, 201);">JAVA</td>
+                    <td style="background-color: rgb(48, 4, 23);">L U N C H</td>
+                    <td style="background-color: rgb(175, 228, 16);">INNO<BR>VATION</td>
+                    <td style="background-color: rgb(175, 228, 16);">INNO<BR>VATION</td>
+                </tr>
+                <tr style="color: rgb(205, 203, 205);">
+                    <td>3<sup>rd</sup><br>day order</td>
+                    <td style="background-color: rgb(175, 228, 16);">INNO<br>VATION</td>
+                    <td style="background-color: rgb(175, 228, 16);">INNO<br>VATION</td>
+                    <td style="background-color: rgb(48, 4, 23);"> B R E A K</td>
+                    <td style="background-color: rgb(1, 15, 15);">TAMIL</td>
+                    <td style="background-color: rgb(233, 12, 144);">JAVA</td>
+                    <td style="background-color: rgb(48, 4, 23);">L U N C H</td>
+                    <td style="background-color: blue;">OS</td>
+                    <td style="background-color: rgb(28, 69, 38);">DM</td>
+                </tr>
+                <tr style="color: rgb(205, 203, 205);">
+                    <td>4<sup>th</sup><br>day order</td>
+                    <td style="background-color: rgb(28, 69, 38);">DM</td>
+                    <td style="background-color: blue;">OS</td>
+                    <td style="background-color: rgb(48, 4, 23);"> B R E A K</td>
+                    <td style="background-color: blue;">0S</td>
+                    <td style="background-color: rgb(15, 165, 97);">ENGLISH</td>
+                    <td style="background-color: rgb(48, 4, 23);;">L N C H</td>
+                    <td style="background-color: rgb(1, 15, 15);">TAMIL</td>
+                    <td style="background-color: rgb(230, 6, 167);">JAVA</td>
+                </tr>
+                <tr style="color: rgb(205, 203, 205);">
+                    <td>5<sup>th</sup><br>day order</td>
+                    <td style="background-color: rgb(216, 78, 9);">SOFT<br>SKILLS</td>
+                    <td style="background-color: rgb(202, 98, 13);">SOFT<br>SKILLS</td>
+                    <td style="background-color: rgb(48, 4, 23);"> B R E A K</td>
+                    <td style="background-color: rgb(15, 165, 97);">ENGLISH</td>
+                    <td style="background-color: rgb(174, 68, 10);">HR</td>
+                    <td style="background-color: rgb(48, 4, 23);">L N C H</td>
+                    <td style="background-color: rgb(28, 69, 38);">DM</td>
+                    <td style="background-color: rgb(1, 15, 15);">TAMIL</td>
+                </tr> 
+            </body>
+    </section> 
+    </table> 
+</center>     
+</body>
+</html>
