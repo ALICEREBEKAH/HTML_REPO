@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,14 +19,14 @@
         <td colspan="11" style="height:20px; width: 100PX ;text-align: center;color: rgb(221, 183, 201);" >KG COLLEGE OF ARTS AND SCIENCE<br>TIME__TABLE</td>
                 <tr style="color: rgb(205, 203, 205);">
                     <td>Hour/<br>Day-Order</td>
-                    <td>8:50 to<br> 9:55</td>
-                    <td>9:55 to<br> 10:50</td>
+                    <td>8:50am to<br> 9:55am</td>
+                    <td>9:55am to<br> 10:50am</td>
                     <td>B R E A K<br>10:50 to 11:10</td>
-                    <td>11:10 to<br> 12:05</td>
-                    <td>12:05 to<br> 1:00</td>
-                    <td>L U N C H<br> 1:00 to 1:50</td>
-                    <td>1:50 to<br> 2:40</td>
-                    <td>2:40 to<br> 3:30</td>
+                    <td>11:10am to<br> 12:05pm</td>
+                    <td>12:05pm to<br> 1:00pm</td>
+                    <td>L U N C H<br> 1:00pm to 1:50pm</td>
+                    <td>1:50pm to<br> 2:40pm</td>
+                    <td>2:40pm to<br> 3:30pm</td>
                 </tr>
             </thead>
     </section> 
@@ -34,7 +34,7 @@
     <section>       
         <body>
                  <tr style="color: rgb(205, 203, 205);">
-                    <td>1<sup>st</sup><br>day order</td>
+                    <td>I<sup>st</sup><br>day order</td>
                     <td style="background-color: blue;">OS</td>
                     <td style="background-color: rgb(240, 9, 140);">JAVA</td>
                     <td style="background-color: rgb(48, 4, 23);"> B_R_E_A_K</td>
@@ -45,7 +45,7 @@
                     <td style="background-color: rgb(174, 68, 10);">HR</td>
                 </tr>
                 <tr style="color: rgb(205, 203, 205);">
-                    <td>2<sup>nd</sup><br>day order</td>
+                    <td>II<sup>nd</sup><br>day order</td>
                     <td style="background-color: rgb(12, 14, 55);">JAVA<BR>LAB</td>
                     <td style="background-color: rgb(12, 14, 55);">JAVA<br>LAB</td>
                     <td style="background-color: rgb(48, 4, 23);">B_R_E_A_K</td>
@@ -56,7 +56,7 @@
                     <td style="background-color: rgb(215, 97, 99);">INNO<BR>VATION</td>
                 </tr>
                 <tr style="color: rgb(205, 203, 205);">
-                    <td>3<sup>rd</sup><br>day order</td>
+                    <td>III<sup>rd</sup><br>day order</td>
                     <td style="background-color: rgb(215, 97, 99);">INNO<br>VATION</td>
                     <td style="background-color: rgb(215, 97, 99);">INNO<br>VATION</td>
                     <td style="background-color: rgb(48, 4, 23);">B_R_E_A_K</td>
@@ -67,7 +67,7 @@
                     <td style="background-color: rgb(28, 69, 38);">DM</td>
                 </tr>
                 <tr style="color: rgb(205, 203, 205);">
-                    <td>4<sup>th</sup><br>day order</td>
+                    <td>IV<sup>th</sup><br>day order</td>
                     <td style="background-color: rgb(28, 69, 38);">DM</td>
                     <td style="background-color: blue;">OS</td>
                     <td style="background-color: rgb(48, 4, 23);">B_R_E_A_K</td>
@@ -78,7 +78,7 @@
                     <td style="background-color: rgb(240, 9, 140);">JAVA</td>
                 </tr>
                 <tr style="color: rgb(205, 203, 205);">
-                    <td>5<sup>th</sup><br>day order</td>
+                    <td>V<sup>th</sup><br>day order</td>
                     <td style="background-color: rgb(216, 78, 9);">SOFT<br>SKILLS</td>
                     <td style="background-color: rgb(202, 98, 13);">SOFT<br>SKILLS</td>
                     <td style="background-color: rgb(48, 4, 23);">B_R_E_A_K</td>
@@ -95,4 +95,4 @@
 </center>
 </footer>      
 </body>
-</html>       
+</html>
